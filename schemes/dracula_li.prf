@@ -1,0 +1,33 @@
+# dracula_li - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.14.0.2239454 (R2023a) Update 1
+# Tue Oct 31 09:49:02 JST 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1118488
+ColorsBackground=C-14144970
+Colors_M_Keywords=C-4353031
+Colors_M_Comments=C-10317660
+Colors_M_Strings=C-958299
+Colors_M_UnterminatedStrings=C-3355444
+Colors_M_SystemCommands=C-7607812
+Colors_M_Errors=C-43691
+Colors_HTML_HTMLLinks=C-15750913
+Colors_M_Warnings=C-18324
+ColorsMLintAutoFixBackground=C-16740163
+Editor.VariableHighlighting.Color=C-12302502
+Editor.NonlocalVariableHighlighting.TextColor=C-11470213
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-1705251
+EditorRightTextLimitLineColor=C-4210753
+Color_CmdWinWarnings=C-18324
+Color_CmdWinErrors=C-43691

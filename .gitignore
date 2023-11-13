@@ -3,3 +3,4 @@
 *.asv
 # Compiled MEX binaries (all platforms)
 *.mex*
+schemes/.DS_Store
